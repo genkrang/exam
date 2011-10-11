@@ -4,7 +4,7 @@ class QuestionPaper
 
   def questions
 
-    return
+    return []
 
   end
 
